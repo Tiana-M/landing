@@ -1,0 +1,23 @@
+.footer{
+ /* display: inline-block;
+  text-align: center;*/
+
+ align-items: center;
+ margin: 0 auto;
+ text-align: center;
+ margin: 20px;
+
+}
+
+.footer p{
+  color: #D452CA;
+}
+
+.fab{
+  margin-top: 30px;
+  color: #C837DC;
+}
+
+.fab:hover{
+  color: #F3C3EF;
+}

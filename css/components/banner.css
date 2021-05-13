@@ -1,0 +1,35 @@
+.banner img{
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+
+}
+
+.container{
+  display: flex;
+  position: relative;
+}
+.title{
+  position:absolute;
+  align-items:center;
+  top: 200px;
+  left:300px;
+  color:#D633C7;
+}
+
+.btn-primary{
+  background-color: #F45EC6;
+  opacity: 0.6;
+  padding: 15px 25px;
+  color: white;
+  border-radius: 20px;
+  font-weight: lighter;
+  border: 1px solid #E347D5;
+
+}
+.btn-primary:hover{
+  background-color:#B44EE7;
+}
+.container p{
+  margin-bottom:30px;
+}
